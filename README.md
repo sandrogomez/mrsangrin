@@ -1,7 +1,7 @@
 Hi 👋 My name is Sandro Ariel Gómez Araya
 =========================================
 
-Software Craftsman and Agile enthusiast | Formed CTO @ Clever.cl
+Software Craftsman and Agile enthusiast | Former CTO @ Clever.cl
 ---------------------------------------------------------
 
 * 🌍  I'm based in Chile
