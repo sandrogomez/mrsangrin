@@ -6,7 +6,7 @@ Software Craftsman and Agile enthusiast | Former CTO @ Clever.cl
 
 * 🌍  I'm based in Chile
 * 🖥️  See my portfolio at [Personal Blog](http://sandrogomez.com)
-* 🚀  I'm currently working on [Clever.cl](http://clever.cl)
+<!-- * 🚀  I'm currently working on [Clever.cl](http://clever.cl) -->
 * 🤝  I'm open to collaborating on Fintech and open banking projects
 * ⚡  I have my own cave and batmobile but Im not batman
 
